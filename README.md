@@ -28,9 +28,9 @@
 - [ ] Challenge 24
 ### Set4
 - [ ] Challenge 25
-- [ ] Challenge 26 
-- [ ] Challenge 27 
-- [ ] Challenge 28 
+- [x] Challenge 26 
+- [x] Challenge 27 
+- [x] Challenge 28 
 - [ ] Challenge 29 
 - [ ] Challenge 30 
 - [ ] Challenge 31 
